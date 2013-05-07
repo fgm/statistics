@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\statistics\Plugin\block\block\StatisticsPopularBlock.
+ * Contains \Drupal\statistics\Plugin\Block\StatisticsPopularBlock.
  */
 
-namespace Drupal\statistics\Plugin\block\block;
+namespace Drupal\statistics\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;
