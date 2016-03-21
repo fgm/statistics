@@ -2,13 +2,13 @@
 
 /**
  * @file
- * Contains \Drupal\statistics\Tests\Migrate\d6\MigrateStatisticsConfigsTest.
+ * Contains \Drupal\Tests\statistics\Kernel\Migrate\d6\MigrateStatisticsConfigsTest.
  */
 
-namespace Drupal\statistics\Tests\Migrate\d6;
+namespace Drupal\Tests\statistics\Kernel\Migrate\d6;
 
 use Drupal\config\Tests\SchemaCheckTestTrait;
-use Drupal\migrate_drupal\Tests\d6\MigrateDrupal6TestBase;
+use Drupal\Tests\migrate_drupal\Kernel\d6\MigrateDrupal6TestBase;
 
 /**
  * Upgrade variables to statistics.settings.yml.
