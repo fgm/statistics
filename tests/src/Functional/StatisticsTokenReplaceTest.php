@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\statistics\Tests;
+namespace Drupal\Tests\statistics\Functional;
 
 /**
  * Generates text using placeholders for dummy content to check statistics token
